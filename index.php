@@ -7,6 +7,7 @@
 <body>
 <?php
 echo("Hello world !");
+echo "my name is stain";
 ?>
 </body>
 </html>
